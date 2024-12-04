@@ -1,12 +1,12 @@
 ## Project Euler Solutions
-There are solutions for **Project Euler** problems written in **Rust**.
-The only rule ~~I follow~~ in solutions is to use only the standard library.
+There are solutions for **Project Euler** problems written in **Rust**.  
+The only rule ~~I follow~~ in solutions is to use only the standard library.  
 
-The main goal is to find solutions to the first 150 problems.
-*Currently: **11/150***
+The main goal is to find solutions to the first 150 problems.  
+*Currently: **11/150***  
 
-You can find blogs about solutions on my [blog page](https://siaeyy.lol/blogs).
-Also can find direct links to blogs in below.
+You can find blogs about solutions on my [blog page](https://siaeyy.lol/blogs).  
+Also can find direct links to blogs in below.  
 
 ### Solutions:
  1. [Multiples of 3 or 5](https://github.com/siaeyy/euler/blob/master/src/solutions/%231.rs)
