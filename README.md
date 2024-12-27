@@ -3,7 +3,7 @@ There are solutions for **Project Euler** problems written in **Rust**.
 The only rule ~~I follow~~ in solutions is to use only the standard library.  
 
 The main goal is to find solutions to the first 150 problems.  
-*Currently: **11/150***  
+*Currently: **12/150***  
 
 You can find blogs about solutions on my [blog page](https://siaeyy.lol/blogs).  
 Also can find direct links to blogs in below.  
@@ -20,4 +20,5 @@ Also can find direct links to blogs in below.
  9. [Special Pythagorean Triplet](https://github.com/siaeyy/euler/blob/master/src/solutions/%239.rs)
  10. [Summation of Primes](https://github.com/siaeyy/euler/blob/master/src/solutions/%2310.rs)
  11. [Largest Product in a Grid](https://github.com/siaeyy/euler/blob/master/src/solutions/%2311.rs)
+ 12. [Highly Divisible Triangular Number](https://github.com/siaeyy/euler/blob/master/src/solutions/%2312.rs)
 
