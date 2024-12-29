@@ -3,7 +3,7 @@ There are solutions for **Project Euler** problems written in **Rust**.
 The only rule ~~I follow~~ in solutions is to use only the standard library.  
 
 The main goal is to find solutions to the first 150 problems.  
-*Currently: **12/150***  
+*Currently: **15/150***  
 
 You can find blogs about solutions on my [blog page](https://siaeyy.lol/blogs).  
 Also can find direct links to blogs in below.  
