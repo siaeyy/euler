@@ -21,4 +21,6 @@ Also can find direct links to blogs in below.
  10. [Summation of Primes](https://github.com/siaeyy/euler/blob/master/src/solutions/%2310.rs)
  11. [Largest Product in a Grid](https://github.com/siaeyy/euler/blob/master/src/solutions/%2311.rs)
  12. [Highly Divisible Triangular Number](https://github.com/siaeyy/euler/blob/master/src/solutions/%2312.rs)
-
+ 13. [Large Sum](https://github.com/siaeyy/euler/blob/master/src/solutions/%2313.rs)
+ 14. [Longest Collatz Sequence](https://github.com/siaeyy/euler/blob/master/src/solutions/%2314.rs)
+ 15. [Lattice Paths](https://github.com/siaeyy/euler/blob/master/src/solutions/%2315.rs)
