@@ -1,4 +1,4 @@
-#[path = "./solutions/#12.rs"]
+#[path = "./solutions/#15.rs"]
 mod solution;
 
 fn main() {
